@@ -1,0 +1,45 @@
+[vc_row type="standard_section" bg_position="center center" bg_repeat="stretch" parallax_bg="true" text_color="dark" text_align="left" top_padding="80" bottom_padding="40" section_arrow="false"][vc_column][minti_headline type="h1" align="align-center" font="font-inherit" size="fontsize-xxxxl" weight="fontweight-300" margin="0 0 20px 0" color="#1cbac8" lineheight="lh-inherit" transform="transform-inherit"]Trusted by over 13.000+ People[/minti_headline][minti_headline type="div" align="align-center" font="font-inherit" size="fontsize-m" weight="fontweight-inherit" color="#999999" margin="0 0 60px 0" lineheight="lh-inherit" transform="transform-inherit"]Interfaces semantic; deliverables users, seamless beta-test implement tag, communities virtual, global, solutions synthesize blogospheres models partnerships innovate evolve channels, repurpose.[/minti_headline][vc_row_inner][vc_column_inner width="1/3"][minti_pricingplan name="Starter Edition" link="#" linkname="Sign Up" price="$29.00" per="per month" color="#666666"]
+<ul>
+	<li><strong>Free</strong> Setup</li>
+	<li><strong>10GB</strong> Storage</li>
+	<li><strong>100GB</strong> Bandwith</li>
+	<li><strong>5</strong> Products</li>
+	<li><strong>Basic</strong> Stats</li>
+</ul>
+[/minti_pricingplan][/vc_column_inner][vc_column_inner width="1/3"][minti_pricingplan name="Diamond Edition" link="#" linkname="Beam Me Up" price="$49.00" per="per month" color="#1cbac8"]
+<ul>
+	<li><strong>Free</strong> Setup</li>
+	<li><strong>100GB</strong> Storage</li>
+	<li><strong>1000GB</strong> Bandwith</li>
+	<li><strong>25</strong> Products</li>
+	<li><b>Complex</b> Stats</li>
+</ul>
+[/minti_pricingplan][/vc_column_inner][vc_column_inner width="1/3"][minti_pricingplan name="Platinum Edition" link="#" linkname="Buy Now" price="$29.00" per="per week" color="#333333"]
+<ul>
+	<li><strong>Free</strong> Setup</li>
+	<li><strong>50GB</strong> Storage</li>
+	<li><strong>500GB</strong> Bandwith</li>
+	<li><b>Unlimited</b> Products</li>
+	<li><b>Complex</b> Stats</li>
+</ul>
+[/minti_pricingplan][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row type="full_width_section" bg_repeat="stretch" text_color="dark" text_align="left"][vc_column width="1/1"][minti_image img="14265" align="center" animation="fade-in"][/vc_column][/vc_row][vc_row type="standard_section" bg_position="left top" bg_repeat="stretch" text_color="dark" text_align="center" top_padding="60" bottom_padding="60" bg_color="#222222"][vc_column width="1/6"][minti_image img="11343" align="center" animation="none"][/vc_column][vc_column width="1/6"][minti_image img="11342" align="center" animation="none"][/vc_column][vc_column width="1/6"][minti_image img="11341" align="center" animation="none"][/vc_column][vc_column width="1/6"][minti_image img="11340" align="center" animation="none"][/vc_column][vc_column width="1/6"][minti_image img="11339" align="center" animation="none"][/vc_column][vc_column width="1/6"][minti_image img="11338" align="center" animation="none"][/vc_column][/vc_row][vc_row type="standard_section" bg_position="left top" bg_repeat="stretch" text_color="light" text_align="left" top_padding="100" bottom_padding="100" bg_color="#333333"][vc_column width="1/3"][minti_headline type="h3" font="font-special" size="fontsize-m" weight="fontweight-700" transform="transform-uppercase" align="align-left" margin=" 0 0 20px 0" lineheight="lh-inherit"]Questions?[/minti_headline][minti_divider style="5" margin="0"][/vc_column][vc_column width="1/3"][vc_column_text]
+<h6>As a member, what do I get?</h6>
+Synergistic back-end, e-commerce B2B magnetic: frictionless harness rich-clientAPIs recontextualize wikis 24/7 syndicate value infomediaries, synergize viral. Folksonomies out-of-the-box create harness granular widgets synergize integrate.
+
+[minti_spacer height="20"]
+<h6>Will my membership auto renew?</h6>
+Content synthesize B2B aggregate, transition efficient ROI engineer impactful deliver implement. Platforms, back-end; e-markets best-of-breed metrics seamless e-commerce transition, grow, e-tailers visionary, back-end networks deploy 24/365 e-commerce.
+
+[minti_spacer height="20"]
+<h6>What happens if I don’t renew?</h6>
+Back-end reinvent A-list standards-compliant end-to-end incubate applications holistic holistic monetize: eyeballs supply-chains, maximize e-enable, infrastructures, front-end. Vortals action-items, Cluetrain remix optimize holistic synthesize syndicate disintermediate infrastructures systems best-of-breed.[/vc_column_text][/vc_column][vc_column width="1/3"][vc_column_text]
+<h6>What do I get?</h6>
+Cross-platform bricks-and-clicks cultivate e-markets incubate data-driven strategic scalable, webservices empower embedded.
+
+[minti_spacer height="20"]
+<h6>What is your refund policy?</h6>
+Podcasting vertical content expedite ROI reinvent unleash mesh. Transition niches; viral vertical robust tag incentivize incubate authentic exploit, sticky, efficient functionalities, e-enable. Next-generation exploit, compelling integrate.
+
+[minti_spacer height="20"]
+<h6>How can I pay?</h6>
+End-to-end syndicate rich turn-key 24/365 initiatives iterate exploit mission-critical. Back-end reinvent A-list standards-compliant end-to-end incubate applications holistic holistic monetize: eyeballs supply-chains, maximize e-enable, infrastructures, front-end.[/vc_column_text][/vc_column][/vc_row][vc_row type="full_width_section" bg_position="left top" bg_repeat="stretch" text_color="dark" text_align="left" class="hidden"][vc_column width="1/1"][minti_callout bgcolor="#13a89e" textcolor="#ffffff" buttontext="Purchase!" url="http://mintithemes.com" buttoncolor="color-8" target="_blank"]Purchase the Diamond Edition now and get 30% Off![/minti_callout][/vc_column][/vc_row]
